@@ -4,7 +4,7 @@ email: missra-org@outlook.com
 description: Just a simple, single page responsive template brought to you by HTML5 UP.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-download_button_url: https://gitlab.com/missra-org/
+download_button_url: https://github.com/missra-org/
 
 # Social settings
 500px_url:
