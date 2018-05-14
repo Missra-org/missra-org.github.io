@@ -1,15 +1,14 @@
 # Site settings
 title: Missra
-email: chzng@outlook.com
+email: missra-org@outlook.com
 description: Just a simple, single page responsive template brought to you by HTML5 UP.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-download_button_url: https://gitlab.com/andrewbanchich/fractal-jekyll-theme
+download_button_url: https://gitlab.com/missra-org/
 
 # Social settings
 500px_url:
-facebook_url:
-github_url:
+github_url: https://github.com/missra-org
 
 # Build settings
 markdown: kramdown
