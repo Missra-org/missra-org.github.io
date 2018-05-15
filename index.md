@@ -53,7 +53,6 @@ title: 首页
 </section>
 
 <!-- Four -->
-<!--
 <section id="four" class="wrapper">
 	<div class="inner">
 
@@ -371,4 +370,3 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 	</div>
 </section>
--->
