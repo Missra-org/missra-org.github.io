@@ -1722,6 +1722,10 @@
 			}
 
 		}
+	h1 {
+		font-size: 2.0em;
+		line-height: 1.5em;
+	}
 
 	h2 {
 		font-size: 1.75em;
