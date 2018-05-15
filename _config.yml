@@ -1,14 +1,29 @@
-# Site settings
-title: Missra
+# 网页信息
+title: Missra-org
+author: missra-org
 email: missra-org@outlook.com
-description: Just a simple, single page responsive template brought to you by HTML5 UP.
+description: Missra web app kit
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-download_button_url: https://github.com/missra-org/
 
-# Social settings
-500px_url:
+# 社交链接
+github_username: missra-org
 github_url: https://github.com/missra-org
+rss: rss
+
+
+# 显示摘要
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# 链接
+permalink: /:title/
+
+# 分页
+paginate: 5
+paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown
+
+# download link
+download_button_url: https://github.com/missra-org/
